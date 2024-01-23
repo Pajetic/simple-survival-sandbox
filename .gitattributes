@@ -11,6 +11,10 @@
 # Code
 *.cs text diff=csharp
 
+# Misc
+*.json -text
+*.txt -text
+
 # Unity Text Assets
 *.meta unityyaml
 *.unity unityyaml
